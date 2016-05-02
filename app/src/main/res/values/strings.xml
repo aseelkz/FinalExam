@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinalExamApp</string>
+    <string name="header">Please answer the following:</string>
+    <string name="q1"> </string>
+    <string name="q2"> </string>
+    <string name="q3"> </string>
+    <string name="total"> </string>
+
+
+
+</resources>
